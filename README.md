@@ -1,6 +1,6 @@
-# `(Simple) Web Request`
+# (Simple) Web Request
 
-## `Technologies use:`
+## Technologies use:
 - JavaScript (ES6)
 - CSS
 - HTML
@@ -8,7 +8,7 @@
 - Express.js
 - Rest API
 
-## `How to use:`
+## How to use:
 1. Navigate to the home folder
 2. Start a server by using command:
         
@@ -21,7 +21,7 @@
 3. Open the index.html in public/ folder
 
 
-## `Endpoint`
+## Endpoint
 You can try this endpoint for request
 
 - `GET /students` - To Get data, I prefer you to open console to see the data
@@ -35,4 +35,4 @@ You can try this endpoint for request
 
 
 ---------------------
-`Develop by:` [`Kurt Russelle Marmol`](https://github.com/jkrmarmol) on `June 26, 2022`
+Develop by: [Kurt Russelle Marmol](https://github.com/jkrmarmol) on June 26, 2022
